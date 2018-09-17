@@ -504,6 +504,10 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
     }
 }
 
+/* -- paragraph -- */
+.paragraph {
+    text-align: justify;
+}
 
 /* -- nav btn collapse -- */
 
